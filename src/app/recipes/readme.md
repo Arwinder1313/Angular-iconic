@@ -1,0 +1,1 @@
+This angular& ionic project empowers coder with builtin features
